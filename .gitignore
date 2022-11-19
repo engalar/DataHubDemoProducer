@@ -20,3 +20,5 @@ theme-cache
 
 logs
 .env
+/datahubdemoproducer.mpr.bak
+/datahubdemoproducer.mpr.lock
